@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-worker-sub-orders",
+  "version": "1.0.0",
+  "description": "RabbitMQ amqp.node tutorial ",
+  "dependencies": {
+    "amqplib": "latest",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "js-beautify": "^1.9.1",
+    "url-parse": ">=1.5.9"
+  }
+}
